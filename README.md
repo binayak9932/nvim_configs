@@ -30,7 +30,7 @@ Make sure you have Neovim installed. [Install Neovim](https://github.com/neovim/
    Launch Neovim and press `y` when prompted to install the default setup.
 
 3. **Clone Custom Configurations**  
-   Clone this repository, copy the contents of the folder, and paste them into the `lua/custom` directory in `~/.config/nvim`:
+   Clone this repository, copy the contents of the folder, and paste them into the `lua/custom` directory (replacing the contents) in `~/.config/nvim`:
    ```bash
    git clone git@github.com:binayak9932/nvim_configs.git
    ```
