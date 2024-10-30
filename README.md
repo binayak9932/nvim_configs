@@ -1,4 +1,4 @@
-Here's a README file for your Neovim config repo:
+Neovim config for c++,go,rust,python
 
 ---
 
