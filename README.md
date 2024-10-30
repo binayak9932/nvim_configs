@@ -43,6 +43,6 @@ Make sure you have Neovim installed. [Install Neovim](https://github.com/neovim/
    press :`(space+T+H)`
    
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Now your Neovim is set up with a personalized configuration. Enjoy!
