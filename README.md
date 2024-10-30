@@ -39,7 +39,8 @@ Make sure you have Neovim installed. [Install Neovim](https://github.com/neovim/
    Open Neovim again, and your custom configurations should now be loaded. Voilà!
 
 4. **To change themes**
-   press (space+T+H)
+   
+   press :`(space+T+H)`
    
 
 ---
