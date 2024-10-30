@@ -38,6 +38,10 @@ Make sure you have Neovim installed. [Install Neovim](https://github.com/neovim/
 4. **Restart Neovim**  
    Open Neovim again, and your custom configurations should now be loaded. Voilà!
 
+4. **To change themes**
+   press (space+T+H)
+   
+
 ---
 
 Now your Neovim is set up with a personalized configuration. Enjoy!
