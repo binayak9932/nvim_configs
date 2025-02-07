@@ -5,7 +5,9 @@ Neovim config for c++,go,rust,python
 # Neovim Configurations
 
 This repository contains custom configurations for Neovim based on [NvChad](https://github.com/NvChad/NvChad).
-
+```bash
+sudo apt-get install neovim
+```
 ## Installation
 
 Follow these steps to set up your Neovim with NvChad and this custom configuration.
